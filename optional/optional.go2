@@ -1,0 +1,46 @@
+package optional
+
+import (
+	"reflect"
+)
+
+type Optional(type T interface{}) struct {
+	value interface{}
+}
+
+type Empty(type T interface{}) struct {}
+
+func New(type T interface{})(value T) *Optional(T) {
+	return &Optional(T){
+		value: &value,
+	}
+}
+
+func (o *Optional(T)) Value() T {
+	return *o.value.(*T)
+}
+
+func (o *Optional(T)) Has() bool {
+	// FIXME: don't want to use refrect if possible
+	return !reflect.ValueOf(*o.value.(*T)).IsNil()
+}
+
+func (o *Optional(T)) ValueOr(option T) T {
+	if o.Has() {
+		return *o.value.(*T)
+	} else {
+		return option
+	}
+}
+
+func (o *Optional(T)) If(presenting func(T)) *Empty(T) {
+	if o.Has() {
+		presenting(o.Value())
+		return nil
+	}
+	return &Empty(T){}
+}
+
+func (o *Empty(T)) OrElse(presenting func()) {
+	presenting()
+}

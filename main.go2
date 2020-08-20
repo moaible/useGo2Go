@@ -1,0 +1,14 @@
+package main
+
+import (
+	"fmt"
+	"github.com/moaible/useGo2Go/optional"
+)
+
+type Some struct {}
+
+func main() {
+	var some *Some
+	op := optional.New(some)
+	fmt.Println(op.ValueOr(&Some{}))
+}

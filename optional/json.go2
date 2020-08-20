@@ -1,0 +1,9 @@
+package optional
+
+func (o *Optional(T)) Marshal() {
+
+}
+
+func (o *Optional(T)) Unmarshal() {
+
+}

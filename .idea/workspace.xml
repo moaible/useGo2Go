@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5041b793-fec0-4eae-8423-5b973820de7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/workspace/src/go.googlesource.com/goroot" />
+  <component name="ProjectId" id="1gLtkFaDu06Embdh3eM9lhFGLq1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoAppEngineRunConfiguration" factoryName="Go App Engine">
+      <module name="useGo2Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="useGo2Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/moaible/goptional" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go2" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="useGo2Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go2" />
+      <package value="github.com/moaible/goptional" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="useGo2Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/moaible/goptional" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="127" key="#GOPATH" timestamp="1597905864872">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state x="498" y="127" key="#GOPATH/0.23.1396.877@0.23.1396.877" timestamp="1597905864872" />
+    <state x="162" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597907931407">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state x="162" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1396.877@0.23.1396.877" timestamp="1597907931407" />
+    <state x="417" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597908462838">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state x="417" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1396.877@0.23.1396.877" timestamp="1597908462838" />
+    <state x="463" y="298" key="#com.intellij.tools.ToolEditorDialog" timestamp="1597907792002">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state x="463" y="298" key="#com.intellij.tools.ToolEditorDialog/0.23.1396.877@0.23.1396.877" timestamp="1597907792002" />
+    <state width="1354" height="216" key="GridCell.Tab.0.bottom" timestamp="1597908956282">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state width="1354" height="216" key="GridCell.Tab.0.bottom/0.23.1396.877@0.23.1396.877" timestamp="1597908956282" />
+    <state width="1354" height="216" key="GridCell.Tab.0.center" timestamp="1597908956280">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state width="1354" height="216" key="GridCell.Tab.0.center/0.23.1396.877@0.23.1396.877" timestamp="1597908956280" />
+    <state width="1354" height="216" key="GridCell.Tab.0.left" timestamp="1597908956279">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state width="1354" height="216" key="GridCell.Tab.0.left/0.23.1396.877@0.23.1396.877" timestamp="1597908956279" />
+    <state width="1354" height="216" key="GridCell.Tab.0.right" timestamp="1597908956282">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state width="1354" height="216" key="GridCell.Tab.0.right/0.23.1396.877@0.23.1396.877" timestamp="1597908956282" />
+    <state x="199" y="100" key="SettingsEditor" timestamp="1597907796306">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state x="199" y="100" key="SettingsEditor/0.23.1396.877@0.23.1396.877" timestamp="1597907796306" />
+    <state x="363" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1597907984936">
+      <screen x="0" y="23" width="1396" height="877" />
+    </state>
+    <state x="363" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1396.877@0.23.1396.877" timestamp="1597907984936" />
+  </component>
+</project>
